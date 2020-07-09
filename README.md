@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey GitHub! 👋
 
-<!--
-**ShineyDev/ShineyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
+  <br><br>
+  <samp>
+    I'm Riley (He/Him). A full-stack contractor. I design and develop APIs and applications for startup and enterprise.
+    <br><br>
+    Ask me about GitHub API v4!
+  </samp>
+</p>
